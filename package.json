@@ -1,0 +1,11 @@
+{
+  "name": "shows-in-town-api",
+  "version": "1.0.0",
+  "description": "API for Shows in Town",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "puppeteer": "^19.4.1"
+  }
+}
